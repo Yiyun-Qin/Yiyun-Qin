@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>My name is Yiyun Qin. I am a student in Honours Mathematics/Financial Analysis and Risk Management in <a href="http://mths.ca">St. Mother Teresa HS</a>, Ottawa, Canada.</p>
+<p>My name is Yiyun Qin. I am a student in Honours Mathematics/Financial Analysis and Risk Management in <a href="https://uwaterloo.ca/">University of Waterloo</a>, Waterloo, Canada.</p>
 
 <h2>✍ Programming Languages</h2>
 <p>
